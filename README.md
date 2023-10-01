@@ -7,7 +7,7 @@ it's a relentless zombie-shooting frenzy in this adrenaline-pumping single-playe
 instincts take center stage. Crafted with precision in the Unity engine using C#, 'Generation Survive' promises heart-pounding action and challenges your skills at every turn. 
 Prepare to survive, thrive, and rise through the ranks in this gripping journey, now available for play on the Unity website.
 
-Tip: All game flies are located in the Generation-Survve folder uploaded to this Repo.
+Tip: All game flies are located in the Generation-Survive folder uploaded to this Repo.
 
 I had a lot of fun making this game, definately want to keep making more - Maybe learn unreal Engine? 
 
